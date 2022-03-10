@@ -1,0 +1,3 @@
+<Tabs tabs="{{tabs}}" bindtabsItemChange="handleTabsItemChange">
+</Tabs>
+<image class="" src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2101402722,801001948&fm=26&gp=0.jpg" mode="widthFix" />

@@ -1,0 +1,9 @@
+page {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+button {
+    margin-top: 40rpx;
+    width: 70%;
+}

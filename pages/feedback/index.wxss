@@ -1,0 +1,65 @@
+page {
+    background-color: #eee;
+}
+.fb_main {
+    padding: 20rpx;
+    color: #666;
+}
+.fb_title {
+
+}
+.fb_tips {
+    display: flex;
+    /* 换行效果 */
+    flex-wrap: wrap;
+
+}
+.fb_tips text {
+    width: 30%;
+    padding: 10rpx;
+    text-align: center;
+    background-color: #fff;
+    margin: 10rpx;
+}
+
+.fb_content {
+    margin-top: 30rpx;
+    background-color: #fff;
+}
+.fb_content textarea {
+    padding: 10rpx;
+
+}
+.fb_tool {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 30rpx;
+}
+.change_btn {
+    width: 100rpx;
+    height: 100rpx;
+    margin-left: 20rpx;
+}
+.change_btn button {
+    width: 100rpx !important;
+    line-height: 100rpx;
+    font-size: 40rpx;
+    text-align: center;
+    padding: 0;
+    color: #ccc;
+    background-color: #eee;
+    border: 1rpx solid #ccc;
+    margin-bottom: 20rpx;
+}
+.form_btn_wrap {
+    width: 200rpx;
+    margin-top: 20rpx;
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+}
+.form_btn_wrap button {
+    background-color: var(--themeColor) !important;
+    color: #fff !important;
+    font-size: 32rpx !important;
+}
